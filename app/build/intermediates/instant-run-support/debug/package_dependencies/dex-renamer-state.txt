@@ -1,0 +1,4 @@
+#Sun Apr 30 18:42:32 CST 2017
+base.0=C\:\\Users\\wangwei\\AndroidStudioProjects\\XMLPullParser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2ffbe73717b949398b434292f36209dcf2cfdb7e
+renamed.0=classes.dex
+file.0=C\:\\Users\\wangwei\\AndroidStudioProjects\\XMLPullParser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_2ffbe73717b949398b434292f36209dcf2cfdb7e\\classes.dex

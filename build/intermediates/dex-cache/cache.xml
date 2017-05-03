@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangwei\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\wangwei\AndroidStudioProjects\XMLPullParser\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_2ffbe73717b949398b434292f36209dcf2cfdb7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangwei\AndroidStudioProjects\XMLPullParser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\wangwei\AndroidStudioProjects\XMLPullParser\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6693a322047a9a461435d0336de64e374c08fdf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wangwei\AndroidStudioProjects\XMLPullParser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de869d31917cae01fad6c90d02ed71755ab7107f">
+        <dex dex="C:\Users\wangwei\AndroidStudioProjects\XMLPullParser\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9a9151bff541a13e19af2afb4229a15233d3e4e0\classes.dex" />
+    </item>
+
+</items>
